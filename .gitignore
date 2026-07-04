@@ -4,3 +4,15 @@ node_modules/
 __pycache__/
 .DS_Store
 .vercel
+config/.bioauth.key
+config/.env.active
+config/credentials.md
+.env.local
+config/.bioauth.key
+config/.env.active
+config/credentials.md
+.env.local
+config/.bioauth.key
+config/.env.active
+config/credentials.md
+.env.local
